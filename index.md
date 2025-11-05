@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello! I'm [Your Name], and this is my corner of the internet where I share my thoughts, experiences, and journey.
+Hello! I'm Beneah Kombe, and this is my corner of the internet where I share my thoughts, experiences, and journey.
 
 ## About Me
 
@@ -25,7 +25,15 @@ For life I like to listen to perspectives, ideas, experiences or even mis-experi
 {% for post in site.posts limit:5 %}
   <div class="post-preview">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+    <p class="post-date">
+      {{ post.date | date: "%B %d, %Y" }}
+      {% assign words = post.content | number_of_words %}
+      {% assign reading_time = words | divided_by: 200 %}
+      {% if reading_time == 0 %}
+        {% assign reading_time = 1 %}
+      {% endif %}
+      • {{ reading_time }} min read
+    </p>
     {% if post.excerpt %}
     <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
     {% endif %}

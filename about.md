@@ -44,8 +44,15 @@ Throughout my journey, I've been fortunate to learn from and be inspired by many
 
 ## Values & Philosophy
 
-I like to listen to perspectives, ideas, experiences or even mis-experiences, singularly to learn more about how we can make tomorrow better than today. A lot of situations in life are not fair, and the first step towardsmfixing that is learning about those situations, especially the ones we are least exposed to.
+I like to listen to perspectives, ideas, experiences or even mis-experiences, singularly to learn more about how we can make tomorrow better than today. A lot of situations in life are not fair, and the first step towards fixing that is learning about those situations, especially the ones we are least exposed to.
 
 ---
 
-Want to connect? Feel free to reach out via [email/social media links].
+## Get in Touch
+
+Want to connect? Feel free to reach out:
+
+- **Email**: [info@kombeneah.com](mailto:info@kombeneah.com)
+- **LinkedIn**: [linkedin.com/in/kombeneah](https://www.linkedin.com/in/kombeneah)
+- **GitHub**: [github.com/kombeneah](https://github.com/kombeneah)
+- **Twitter**: [@kombeneah](https://twitter.com/kombeneah)

@@ -1,4 +1,4 @@
-title: Kombeneah
+title: Beneah Kombe
 description: Chronicles of Beneah Kombe
 url: "https://kombeneah.com"
 baseurl: ""
@@ -7,6 +7,14 @@ baseurl: ""
 author:
   name: Beneah Kombe
   email: kombeneah@gmail.com
+
+# Social links
+social:
+  email: info@kombeneah.com
+  linkedin: https://www.linkedin.com/in/kombeneah
+  github: https://github.com/kombeneah
+  twitter: https://twitter.com/kombeneah
+  twitter_username: kombeneah
 
 # Build settings
 markdown: kramdown

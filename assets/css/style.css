@@ -6,13 +6,13 @@
 }
 
 :root {
-  --primary-color: #2c3e50;
-  --secondary-color: #3498db;
-  --text-color: #333;
+  --primary-color: #1a1a1a;
+  --secondary-color: #404040;
+  --text-color: #1a1a1a;
   --text-light: #666;
-  --border-color: #ddd;
-  --background: #fff;
-  --code-background: #f5f5f5;
+  --border-color: #e0e0e0;
+  --background: #ffffff;
+  --code-background: #f7f7f7;
 }
 
 body {
@@ -133,6 +133,12 @@ a:hover {
   color: var(--text-light);
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
+  background: none;
+}
+
+.post-categories,
+.reading-time {
+  background: none;
 }
 
 .post-excerpt {
@@ -140,16 +146,30 @@ a:hover {
 }
 
 /* Individual Post Page */
+.post {
+  background: none;
+}
+
 .post-header {
   margin-bottom: 2rem;
+  background: none;
 }
 
 .post-header h1 {
   margin-bottom: 0.5rem;
 }
 
+.post-header p {
+  background: none;
+}
+
+.post-header time {
+  background: none;
+}
+
 .post-content {
   margin-bottom: 3rem;
+  background: none;
 }
 
 .post-content img {
@@ -161,6 +181,15 @@ a:hover {
 .post-footer {
   padding-top: 2rem;
   border-top: 1px solid var(--border-color);
+  background: none;
+}
+
+.post-footer p {
+  background: none;
+}
+
+.post-footer a {
+  background: none;
 }
 
 /* Code Blocks */
@@ -211,6 +240,23 @@ footer {
   padding: 2rem 0;
   margin-top: 3rem;
   text-align: center;
+}
+
+.social-links {
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 0.75rem;
+  font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.social-links a:hover {
+  opacity: 0.8;
+  text-decoration: none;
 }
 
 footer p {

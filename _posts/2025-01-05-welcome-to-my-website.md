@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Welcome to My Website"
+title: "Welcome Note"
 date: 2025-01-05
 categories: personal updates
 ---
 
-Welcome to my personal website! I'm excited to have a simpler (and hopefully final!) space where I can share my thoughts, experiences, and journey.
+Welcome! I'm excited to have a simpler (and hopefully final!) space where I can share my thoughts, experiences, and journey.
 
 ## Why I Created This Site
 
