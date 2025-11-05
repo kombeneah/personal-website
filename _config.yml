@@ -16,6 +16,11 @@ social:
   twitter: https://twitter.com/kombeneah
   twitter_username: kombeneah
 
+# SEO settings
+seo:
+  locale: en_US
+  default_image: /assets/images/default-og-image.jpg
+
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
