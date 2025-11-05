@@ -1,0 +1,38 @@
+title: Kombeneah
+description: Chronicles of Beneah Kombe
+url: "https://kombeneah.com"
+baseurl: ""
+
+# Author information
+author:
+  name: Beneah Kombe
+  email: kombeneah@gmail.com
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Cloudflare Pages build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
