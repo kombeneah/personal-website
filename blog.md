@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Thoughts
 permalink: /blog/
 ---
 
-# Blog
+# Thoughts
 
 All my thoughts, updates, and reflections in one place.
 

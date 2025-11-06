@@ -19,7 +19,7 @@ For fun I do enjoy sports (let's go Arsenal!), a little gaming and lately a well
 
 For life I like to listen to perspectives, ideas, experiences or even mis-experiences, singularly to learn more about how we can make tomorrow better than today.
 
-## Recent Blog Posts
+## Recent Thoughts
 
 <div class="blog-posts">
 {% for post in site.posts limit:5 %}
@@ -41,4 +41,4 @@ For life I like to listen to perspectives, ideas, experiences or even mis-experi
 {% endfor %}
 </div>
 
-<p><a href="/blog/">View all blog posts →</a></p>
+<p><a href="/blog/">View all thoughts →</a></p>
