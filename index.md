@@ -13,7 +13,7 @@ I am from Kenya, currently in New York after stops in Cleveland, Boston, Lannion
 
 I am a software engineer by profession with variable interest in datastores, infrastructure management, data engineering / analytics and backend systems overall.
 
-Before this I earned by Bachelors and Masters in Computer Science at [MIT](https://www.csail.mit.edu/). Before that I spent time as a post-grad high school student at [University School](https://www.us.edu/) in Cleveland (Ohio), after graduating high school at [Starehe Boys Center](https://stareheboyscentre.org/) in Nairobi Kenya. Way before that I was a budding dreamer at Marell Academy in Bungomma Kenya.
+Before this I earned by Bachelors and Masters in Computer Science at [MIT](https://www.csail.mit.edu/). Before that I spent time as a post-grad high school student at [University School](https://www.us.edu/) in Cleveland (Ohio), after graduating high school at [Starehe Boys Center](https://stareheboyscentre.org/) in Nairobi Kenya. Way before that I was a budding dreamer at Marell Academy in Bungoma Kenya.
 
 For fun I do enjoy sports (let's go Arsenal!), a little gaming and lately a well-timed traveling experience.
 
